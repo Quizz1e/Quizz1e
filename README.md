@@ -25,7 +25,6 @@ Focused on Machine Learning and Natural Language Processing**
 | Category | Tools & Libraries |
 |----------|-----------------|
 | **Programming** | Python (Pandas, NumPy, SciPy, asyncio, multithreading, multiprocessing, math, tqdm, typing), C/C++, Java |
-| **Code Quality & Testing** | Pytest, mypy |
 | **Machine Learning** | Scikit-Learn, LightGBM, XGBoost, CatBoost |
 | **Deep Learning** | PyTorch |
 | **NLP** | NLTK, pymorphy2 |
