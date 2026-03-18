@@ -13,8 +13,7 @@
 
 ### ⬛ About me
 
-> **Software Engineering student at Bauman Moscow State Technical University (BMSTU), Russia
-Focused on Machine Learning and Natural Language Processing**
+> **Software Engineering student at Bauman Moscow State Technical University (BMSTU), Russia. <br>Focused on Machine Learning and Natural Language Processing.**
 
 <div align="center">
 &nbsp<br>
