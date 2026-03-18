@@ -21,17 +21,15 @@
 
 ### ⚙️ Tech Stack
 
-| Category | Tools & Libraries |
+| Category | Tools & Technologies |
 |----------|-----------------|
-| **Programming** | Python (Pandas, NumPy, SciPy, asyncio, multithreading, multiprocessing, math, tqdm, typing), C/C++, Java |
-| **Machine Learning** | Scikit-Learn, LightGBM, XGBoost, CatBoost |
+| **Programming** | Python (Asyncio, Multiprocessing), C/C++, Java |
+| **Data Analysis** | Pandas, NumPy, SciPy, SQL (PostgreSQL, MySQL) |
+| **Machine Learning** | Scikit-Learn, XGBoost, CatBoost, LightGBM, Optuna |
 | **Deep Learning** | PyTorch |
-| **NLP** | NLTK, pymorphy2 |
-| **Data Visualization** | Matplotlib, Seaborn, Plotly |
-| **Backend & APIs** | FastAPI, Uvicorn, Pydantic |
-| **MLOps & Deployment** | Docker, Git, Streamlit |
-| **Data Engineering** | SQL (PostgreSQL, MySQL) |
-| **Optimization** | Optuna |
-| **Utils** | Joblib, pickle, os |
-| **Environment** | Linux |
+| **NLP** | NLTK, Pymorphy2 |
+| **Visualization** | Matplotlib, Seaborn, Plotly |
+| **Backend & API** | FastAPI, Uvicorn, Pydantic |
+| **Infrastructure & MLOps** | Docker, Git, Streamlit |
+| **Environment** | Linux (Ubuntu/Debian), macOS, Windows |
 | **IDE** | VS Code, Jupyter Notebook, Google Colab |
